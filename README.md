@@ -29,3 +29,10 @@ Flask: For deploying the application as a web app.
 Keras / TensorFlow: For model building, training, and fine-tuning.
 OpenCV: For face detection in real-time video.
 Python: The programming language used for building and training the model.
+
+Snapshots : 
+
+<img width="1728" alt="Screenshot 2024-12-06 at 1 23 54 AM" src="https://github.com/user-attachments/assets/b474516d-f107-49f8-a2e7-015c2da0adf9">
+
+<img width="1728" alt="Screenshot 2024-12-06 at 1 24 46 AM" src="https://github.com/user-attachments/assets/369a6389-9b8c-429d-8a67-a919f581bf5d">
+
